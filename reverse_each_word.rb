@@ -1,4 +1,4 @@
-def reverse_each_word(backwards_words)
-  
+def reverse_each_word(sentence1)
+  sente1 = 
   
 end
