@@ -3,5 +3,6 @@ def reverse_each_word(sentence1)
   reverse_words = seperate_words.map do |seperate_words|
     "#{seperate_words.reverse}"
   end
+  reverse_words = reverse_words.join(" ")
   p reverse_words
 end
